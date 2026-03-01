@@ -1,0 +1,13 @@
+timestamp,post_id,user_id,is_verified,hashtags,post_text
+1735234501,POL_001,NDTV_Official,TRUE,#Election2025,Phase 1 voting begins across 54 seats. #Election2025
+1735234505,POL_002,User_9921x,FALSE,#RiggedElection,EVMs found in private car! This is #RiggedElection #FakePolls
+1735234510,DIS_001,NDMA_India,TRUE,#AssamFloods,"""Red alert issued for Brahmaputra basin. #AssamFloods #Safety"""
+1735234515,DIS_002,Bot_Alpha_1,FALSE,#DamBurstAlert,"""The dam has burst! Thousands feared dead. #DamBurstAlert #Panic"""
+1735234520,FIN_001,RBI_Official,TRUE,#InflationRate,"""Repo rate unchanged at 6.5 percent. #InflationRate #Economy"""
+1735234525,FIN_002,CryptoScam_99,FALSE,#X1000Gem,"""Invest 10k get 1 Lakh by tonight! #X1000Gem #FreeAirdrop"""
+1735234530,HEA_001,WHO_India,TRUE,#VaccinesWork,"""New health drive to eliminate TB by 2025. #PublicHealth #VaccinesWork"""
+1735234535,HEA_002,HealQuick_Bot,FALSE,#MiracleCure,"""Cure diabetes in 2 days with this leaf! #MiracleCure #Secret"""
+1735234540,FAS_001,Vogue_India,TRUE,#SareeLove,"""Trending silk patterns for the 2025 season. #SareeLove #Fashion"""
+1735234545,FAS_002,StyleBot_X,FALSE,#FreeLehenga,"""Get a Sabyasachi lehenga for FREE! Click now. #FreeLehenga #Scam"""
+1735234550,POL_003,PIB_India,TRUE,#PolicyUpdate,"""Government announces new Digital India subsidies. #PolicyUpdate"""
+1735234555,FIN_003,User_7721,FALSE,#MarketCrash,"""The market is falling! Sell everything now! #MarketCrash #Panic"""
